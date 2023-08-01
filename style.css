@@ -1,0 +1,36 @@
+   /*.row > div {
+        border: 1px solid t;
+        border-style:dotted red;
+        background:tan;
+    }*/
+
+    .row .item-1{
+        background:tan;
+    }
+    
+    .item-2{
+        background:tomato;
+    }
+
+
+    .item-3{
+        background:blue;
+    }
+
+
+    .item-4{
+        background:green;
+    }
+
+
+    .item-5{
+        background:grey;
+    }
+
+
+    .item-6{
+        background:peru;
+    }
+
+
+  
